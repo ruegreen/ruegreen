@@ -54,7 +54,7 @@ Real-world architecture and engineering from production enterprise systems. No b
 
 ### 📫 Connect
 
-- **LinkedIn:** [linkedin.com/in/ruegreen](https://linkedin.com/in/ruegreen)
+- **LinkedIn:** [linkedin.com/in/guruegreen](https://www.linkedin.com/in/guruegreen/)
 - **Consulting:** [GuRue Consulting, LLC](mailto:rue@gurueconsulting.com)
 - **Cisco Press:** [Published Book](https://www.ciscopress.com/store/cisco-unified-customer-voice-portal-building-unified-9780132660365)
 
