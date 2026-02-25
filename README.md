@@ -35,7 +35,7 @@ I architect and build enterprise-scale AI, cloud, and infrastructure systems. Wi
 
 | Credential | Details |
 |---|---|
-| **Cisco Certified DevNet Expert** | #20250003 — 3rd person worldwide |
+| **Cisco Certified DevNet Expert** | #20250003 — 3rd person worldwide for 2025 |
 | **4x CCIE** | Enterprise Infrastructure, Voice, Collaboration, Automation — 20+ year active |
 | **CISSP** | #75393 — Active, DoD Security Clearance |
 | **Published Author** | Cisco Press — *Cisco Unified Customer Voice Portal: Building Unified Contact Centers* |
