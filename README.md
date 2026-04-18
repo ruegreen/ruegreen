@@ -50,7 +50,7 @@ Real-world architecture and engineering from production enterprise systems. No b
 |---|---|
 | [mcp-server-enterprise-architecture](https://github.com/ruegreen/mcp-server-enterprise-architecture) | Designing 10+ MCP servers for enterprise AI Agent integration at scale |
 | [llm-agent-orchestration-architecture](https://github.com/ruegreen/llm-agent-orchestration-architecture) | Multi-agent orchestration with local LLM deployment on GPU infrastructure |
-| [tro-saas-platform-architecture](https://github.com/ruegreen/tro-saas-platform-architecture) | Production SaaS platform — MERN stack with React Native mobile app |
+| [consent-saas-platform-architecture](https://github.com/ruegreen/consent-saas-platform-architecture) | Production SaaS platform — MERN stack with React Native mobile app |
 
 ### 📫 Connect
 
