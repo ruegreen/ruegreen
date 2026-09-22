@@ -1,6 +1,6 @@
 # Hey, I'm Rue Green 👋
 
-**Principal Cloud Architect | AI/ML Engineer | 4x CCIE | DevNet Expert**
+**Cloud Architect | AI/ML Engineer | 4x CCIE | DevNet Expert**
 
 I architect and build enterprise-scale AI, cloud, and infrastructure systems. With 20+ years of hands-on engineering experience, I focus on the intersection of AI/ML and enterprise infrastructure — building LLM agent stacks, developing agentic AI orchestration frameworks, and designing production cloud platforms.
 
@@ -40,7 +40,7 @@ I architect and build enterprise-scale AI, cloud, and infrastructure systems. Wi
 | **CISSP** | #75393 — Active, DoD Security Clearance |
 | **Published Author** | Cisco Press — *Cisco Unified Customer Voice Portal: Building Unified Contact Centers* |
 | **US Patent Contributor** | #20150112974 — Enterprise capacity planning tool |
-| **Distinguished Speaker** | Cisco Live Hall of Fame — 15 years, 10 Distinguished Speaker Awards |
+| **Distinguished Speaker** | Cisco Live Hall of Fame, 9 Distinguished Speaker Awards |
 
 ### 📂 Featured Case Studies
 
