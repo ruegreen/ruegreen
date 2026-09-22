@@ -40,7 +40,7 @@ I architect and build enterprise-scale AI, cloud, and infrastructure systems. Wi
 | **CISSP** | #75393 — Active, DoD Security Clearance |
 | **Published Author** | Cisco Press — *Cisco Unified Customer Voice Portal: Building Unified Contact Centers* |
 | **US Patent Contributor** | #20150112974 — Enterprise capacity planning tool |
-| **Distinguished Speaker** | Cisco Live Hall of Fame, 9 Distinguished Speaker Awards |
+| **Distinguished Speaker** | Cisco Live Hall of Fame, 15 years, 9 Distinguished Speaker Awards |
 
 ### 📂 Featured Case Studies
 
