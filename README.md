@@ -55,17 +55,6 @@ Real-world architecture and engineering from production enterprise systems. No b
 | [realtime-ai-proctoring-architecture](https://github.com/ruegreen/realtime-ai-proctoring-architecture) | Real-time LLM evaluation of live technical pitches, with scoring kept human |
 | [consent-saas-platform-architecture](https://github.com/ruegreen/consent-saas-platform-architecture) | Production SaaS platform — MERN stack with React Native mobile app |
 
-I reordered rather than appending. The agent assessment one leads because it’s the most current and the strongest, and the top row is what a scanning reader actually reads. Then the two agentic-AI infrastructure pieces, then the two applied AI systems, then the SaaS platform — so the table reads as a progression from AI infrastructure to AI applications to production delivery, rather than as chronology nobody can see.
-
-Descriptions are matched to your existing style: no trailing periods, same rough length, em-dash where the clause needs a break.
-
-One note — that third slug, consent-saas-platform-architecture, is the one I couldn’t have guessed, so the clone command I gave you earlier was right to pull everything rather than name them.
-
-
-
-
-Claude is AI and can make mistakes.
-Realtime ai proctoring architecture · ZIP
 
 ### 📫 Connect
 
