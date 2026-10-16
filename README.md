@@ -15,7 +15,7 @@ I architect and build enterprise-scale AI, cloud, and infrastructure systems. Wi
 
 ### 🧠 Currently
 
-- **MS Computer Science (Machine Learning)** — Georgia Institute of Technology (Dec 2026)
+- **MS Computer Science (Machine Learning)** — Georgia Institute of Technology (Dec 2027)
 - Leading AI/ML integration initiatives for enterprise contact center platforms
 - Benchmarking BYOLLM architectures on GPU-accelerated hardware
 
