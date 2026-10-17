@@ -46,7 +46,7 @@ I architect and build enterprise-scale AI, cloud, and infrastructure systems. Wi
 
 Real-world architecture and engineering from production enterprise systems. No boilerplate — these document actual design decisions, trade-offs, and outcomes at scale.
 
-| | Project | Description |
+| Project | Description |
 |---|---|
 | [ai-agent-assessment-architecture](https://github.com/ruegreen/ai-agent-assessment-architecture) | Vendor-neutral AI agent assessment — scoring that never overclaims its evidence |
 | [mcp-server-enterprise-architecture](https://github.com/ruegreen/mcp-server-enterprise-architecture) | Designing 10+ MCP servers for enterprise AI Agent integration at scale |
