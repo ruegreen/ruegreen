@@ -46,11 +46,12 @@ I architect and build enterprise-scale AI, cloud, and infrastructure systems. Wi
 
 Real-world architecture and engineering from production enterprise systems. No boilerplate — these document actual design decisions, trade-offs, and outcomes at scale.
 
-| Project | Description |
+| | Project | Description |
 |---|---|
 | [ai-agent-assessment-architecture](https://github.com/ruegreen/ai-agent-assessment-architecture) | Vendor-neutral AI agent assessment — scoring that never overclaims its evidence |
 | [mcp-server-enterprise-architecture](https://github.com/ruegreen/mcp-server-enterprise-architecture) | Designing 10+ MCP servers for enterprise AI Agent integration at scale |
 | [llm-agent-orchestration-architecture](https://github.com/ruegreen/llm-agent-orchestration-architecture) | Multi-agent orchestration with local LLM deployment on GPU infrastructure |
+| [multi-tenant-integration-gateway-architecture](https://github.com/ruegreen/multi-tenant-integration-gateway-architecture) | Multi-tenant messaging middleware — tenant-scoped credentials, webhook identity, leased OAuth refresh |
 | [provenance-gated-document-generation](https://github.com/ruegreen/provenance-gated-document-generation) | Generating customer documents from an evidence ledger — every number declares its source |
 | [realtime-ai-proctoring-architecture](https://github.com/ruegreen/realtime-ai-proctoring-architecture) | Real-time LLM evaluation of live technical pitches, with scoring kept human |
 | [consent-saas-platform-architecture](https://github.com/ruegreen/consent-saas-platform-architecture) | Production SaaS platform — MERN stack with React Native mobile app |
